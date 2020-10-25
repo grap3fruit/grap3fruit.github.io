@@ -23,3 +23,8 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.blogPostTitle_node_modules-\@docusaurus-theme-classic-lib-theme-BlogPostItem- a {
+  /* color: var(--ifm-heading-color); */
+  /* color: var(--ifm-heading-color); */
+}
