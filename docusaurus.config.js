@@ -46,7 +46,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/grap3fruit/grap3fruit.github.io',
+              href: 'https://github.com/grap3fruit',
             },
           ],
         },
