@@ -1,33 +1,29 @@
-# Website
+# grap3fruit의 블로그 저장소
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+https://grap3fruit.github.io/  
+https://grap3fruit.netlify.app/
 
-## Installation
+---
 
-```console
-yarn install
-```
+## 목적
 
-## Local Development
+1. TIL
 
-```console
-yarn start
-```
+   - 매일 공부하는 내용 기록
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+## 블로그 개발 환경
 
-## Build
+1. `https://v2.docusaurus.io/`로 생성
+   - 추후 커스터마이징 해볼것 (리액트 배워서 써먹자..)
+2. `github pages 활용해 배포`
+3. `netlify 활용해 배포`
+   - 일단 써 본다.
+   - 상단 두 주소에서 모두 접근가능
 
-```console
-yarn build
-```
+---
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### Refrence
 
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- https://heropy.blog/2018/01/10/netlify/
+- https://dev.to/nafis/5-free-static-documentation-generators-you-must-check-out-5ged
+- https://v2.docusaurus.io/docs/
