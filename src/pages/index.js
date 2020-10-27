@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import Utterances from '../utterances';
 
 const features = [
   {
@@ -89,6 +90,7 @@ function Home() {
           </section>
         )}
       </main>
+      {/* <Utterances repo={'grap3fruit/grap3fruit.github.io'} /> */}
     </Layout>
   );
 }
