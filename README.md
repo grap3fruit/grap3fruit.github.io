@@ -1,7 +1,8 @@
 # grap3fruit의 블로그 저장소
 
 ~~https://grap3fruit.github.io/~~  
-https://grap3fruit.netlify.app/
+~~https://grap3fruit.netlify.app/~~
+중단. 여유 생길때까지 https://velog.io/@grap3fruit 에 쓰기로 함.
 
 ---
 
